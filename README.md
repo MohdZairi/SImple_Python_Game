@@ -12,7 +12,7 @@ Included Games:<br>
 2. Number Guessing Game: Try to guess the randomly selected number.<br>
 3. Rock, Paper, Scissors: A game to play against the computer.<br>
 4. Word Guessing Game: Guess a word letter by letter.<br>
-5. Country Guessing Game: Guess the name of a country with hints.<br>
+5. Snake Game: A classic Snake game where you control a snake to eat food and grow.<br>
 6. Minesweeper: A text-based minesweeper game.<br>
 7. Hangman: Classic word-guessing game.<br><br>
 Feel free to explore, play, and use these games for learning and entertainment. Each game is contained in its own Python script for easy access and execution. Have fun and enjoy the games!<br>
